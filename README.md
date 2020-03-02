@@ -1,2 +1,7 @@
-# wxdev_ads_backend
- 爱德生妇产医院小程序后端源代码
+# seeds
+ 
+> 瓜子 seeds 一个微信小程序的后端代码
+
+## 使用的npm包
+
+- joi
